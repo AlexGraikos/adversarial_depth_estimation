@@ -4,11 +4,13 @@ Keras implementation of the proposed single-image adversarial depth estimation m
 
 
 <p align="center">
-Example 1:  <img src="results/result1.gif" width="608">
+  <b>Example 1</b>: <br>
+  <img src="results/result1.gif" width="608">
 </p>
 
 <p align="center">
-Example 2:  <img src="results/result2.gif" width="608">
+  <b>Example 2</b>: <br>
+  <img src="results/result2.gif" width="608">
 </p>
 
 ## Requirements
