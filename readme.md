@@ -2,9 +2,13 @@
 
 Keras implementation of single-image adversarial depth estimation model.
 
-<img src="results/result1_input.png" width="304"/> <img src="results/result1_autoenc.png" width="304"/> <img src="results/result1_dense.png" width="304"/>
+<p align="center">
+  <img src="results/result1.gif" width="608">
+</p>
 
-<img src="results/result2_input.png" width="304"/> <img src="results/result2_autoenc.png" width="304"/> <img src="results/result2_dense.png" width="304"/>
+<p align="center">
+  <img src="results/result2.gif" width="608">
+</p>
 
 ## Requirements
 The code was run on Keras 2.2.0, Tensorflow 1.8.0 and Ubuntu 16.04. Matplotlib 2.2.2 was used for visualizing the various model outputs.
