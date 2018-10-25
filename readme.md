@@ -1,6 +1,6 @@
 # Single-Image Adversarial Depth Estimation Model
 
-Keras implementation of single-image adversarial depth estimation model.
+Keras implementation of the proposed single-image adversarial depth estimation model.
 
 <p align="center">
   <img src="results/result1.gif" width="608">
