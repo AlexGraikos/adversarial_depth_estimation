@@ -22,3 +22,4 @@ The model was trained on the depth prediction split of the KITTI dataset (http:/
 * DenseNet generator: TBD
 
 
+In-depth presentation of the proposed model at: https://www.dropbox.com/s/bmeg1yextjawl4b/Single_Image_Depth_Estimation_Using_Generative_Adversarial_Networks.pdf?dl=0 (Greek)
